@@ -5,6 +5,7 @@ reptimer/__init__.py
 reptimer/commandline.py
 reptimer/doc.txt
 reptimer/main.py
+reptimer/test.py
 reptimer.egg-info/PKG-INFO
 reptimer.egg-info/SOURCES.txt
 reptimer.egg-info/dependency_links.txt
