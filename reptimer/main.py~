@@ -7,8 +7,8 @@ import time
 try:
     min, sec = sys.argv[1:]
 except:
-    with open("./doc.txt") as doc:
-        print(''.join(doc.readlines()))
+    with open("./doc.txt", "r") as doc:
+        print(doc.read())
     sys.exit()
 
 try:
