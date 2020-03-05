@@ -5,7 +5,7 @@ with open("README.md", "r") as readme_file:
 
 setuptools.setup(
     name="reptimer",  # name of the project, has to be unique
-    version="0.0.1",  # version number follows PEP 440
+    version="0.0.2",  # version number follows PEP 440
     author="Guilherme Salome",
     author_email="guilhermesalome@gmail.com",
     description="A timer that repeats and beeps.",  # 1 sentence description of package
